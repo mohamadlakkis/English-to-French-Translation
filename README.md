@@ -20,7 +20,7 @@ This implementation does **not** include the attention mechanism, deliberately s
 To run this Project Locally, clone the repo and then install the requirements, after that run the website.py file 
 
 ## Resources 
-- **Explanation of the Model**: Watch the unlisted YouTube video for a detailed explanation of the model and its design decisions. [Watch Video](https://youtu.be/I_LDBGqHpfU?si=fm9CsyYSlVq4o76U)
+- **Explanation of the Model**: Watch the unlisted YouTube video for a detailed explanation of the model and its design decisions.<a href="https://youtu.be/I_LDBGqHpfU?si=fm9CsyYSlVq4o76U" target="_blank">Watch Video</a> <!-- [Watch Video](https://youtu.be/I_LDBGqHpfU?si=fm9CsyYSlVq4o76U) -->
 - **Comparison with Attention Mechanism**: Refer to the latex folder for a comprehensive comparison of the performance and limitations of the LSTM-based model versus models incorporating attention mechanisms.
 
 ## About 
